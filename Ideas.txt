@@ -1,0 +1,15 @@
+1.Event manager
+	+ Web
+	+ maintain a database about event
+	//(html,css,update the site everyday,getting data from college)
+
+2.Attendence
+	+ Website or app
+	+ with login(User data) capabilites
+	//(backend for student data collection)
+
+3.Lab Management
+	+ LAN
+	+ Sockets programming
+	//(python+tkinter)
+ 	
